@@ -9,12 +9,12 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Banco de Dados: `resource_controller_laravel
+-- Banco de Dados: `resource_laravel`
 --
 
-CREATE DATABASE IF NOT EXISTS `resource_controller_laravel` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+CREATE DATABASE IF NOT EXISTS `resource_laravel` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
 
-USE resource_controller_laravel;
+USE resource_laravel;
 
 -- --------------------------------------------------------
 
